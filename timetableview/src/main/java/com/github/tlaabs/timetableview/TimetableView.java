@@ -29,7 +29,7 @@ import java.util.HashMap;
 
 public class TimetableView extends LinearLayout {
     private static final int DEFAULT_ROW_COUNT = 12;
-    private static final int DEFAULT_COLUMN_COUNT = 6;
+    private static final int DEFAULT_COLUMN_COUNT = 8;
     private static final int DEFAULT_CELL_HEIGHT_DP = 50;
     private static final int DEFAULT_SIDE_CELL_WIDTH_DP = 30;
     private static final int DEFAULT_START_TIME = 9;
